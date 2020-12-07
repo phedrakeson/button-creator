@@ -41,3 +41,21 @@ input {
   display: block;
   margin-bottom: 0.5rem;
 }
+
+.footer {
+  justify-content: center;
+  background-color: #333;
+  display: flex;
+}
+
+.footer p,
+a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.125rem;
+  font-family: 'IBM Plex Mono';
+}
+
+.footer a {
+  color: #674172;
+}
